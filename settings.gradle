@@ -1,0 +1,3 @@
+include ':pinView'
+include ':app'
+rootProject.name = "Sample"
